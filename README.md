@@ -1,4 +1,4 @@
-## Hi there, I'm Heo YeongHyeon! 👋
+## Hi there, <span style="color:red">I'm Heo YeongHyeon!</span> 👋
 
 <!--
 **YeongHyeonHeo/YeongHyeonHeo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
